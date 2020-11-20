@@ -1,0 +1,50 @@
+.ghx-extra-fields,
+.ghx-type,
+.ghx-heading-expander,
+.ghx-swimlane-avatar,
+#js-quickfilters-label {
+  display: none;
+}
+
+a.js-detailview {
+  margin-right: 10px;
+}
+
+.ghx-heading > .ghx-summary {
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  order: 1;
+}
+
+ .ghx-info {
+  order: 2;
+  margin-left: auto !important;
+}
+
+.ghx-description {
+  display: inline-block;
+  width: 85px;
+  margin-left: 10px;
+  text-align: right;
+}
+
+.ghx-info span:first-child {
+  width: 50px;
+  display: inline-block;
+}
+
+.js-quickfilter-button {
+  color: #ccc;
+}
+
+.aui-sidebar,
+#header {
+  opacity: .2;
+  transition: 0.3s;
+}
+
+.aui-sidebar:hover,
+#header:hover {
+  opacity: 1;
+}
