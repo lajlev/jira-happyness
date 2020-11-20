@@ -1,1 +1,1 @@
-# A simple extension to deliver Jira Happiness 🎊
+# A simple chrome extension to deliver Jira Happiness 🎊
