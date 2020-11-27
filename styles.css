@@ -48,3 +48,19 @@ a.js-detailview {
 #header:hover {
   opacity: 1;
 }
+
+
+/* Christmas version */
+a {
+  color: #E40A2D !important;
+}
+
+.ghx-selected {
+  background: #ADDFB3 !important;
+}
+
+.ghx-swimlane ul.ghx-columns li.ghx-column {
+  background-repeat: repeat !important;
+  background-size: 250px 250px;
+  background-image: url('http://u.lillefar.dk/ocu2jx+') !important;
+}
