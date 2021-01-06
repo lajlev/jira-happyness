@@ -2,7 +2,12 @@
 .ghx-type,
 .ghx-heading-expander,
 .ghx-swimlane-avatar,
-#js-quickfilters-label {
+#js-quickfilters-label,
+#panel-results,
+#panel-runsreferences,
+#panel-references,
+#tempo-issue-view-panel,
+#logo {
   display: none;
 }
 
@@ -49,18 +54,24 @@ a.js-detailview {
   opacity: 1;
 }
 
+.aui-style,
+.aui-header .aui-dropdown2-trigger:hover, 
+.aui-header .aui-dropdown2-trigger:focus, 
+.aui-header .aui-dropdown2-trigger.active {
+  background-color: #0065ff !important;
+}
 
 /* Christmas version */
-a {
-  color: #E40A2D !important;
+/* a {
+  color: #27ae60 !important;
 }
 
 .ghx-selected {
-  background: #ADDFB3 !important;
+  background: #27ae60 !important;
 }
 
 .ghx-swimlane ul.ghx-columns li.ghx-column {
   background-repeat: repeat !important;
   background-size: 250px 250px;
-  background-image: url('http://u.lillefar.dk/ocu2jx+') !important;
-}
+  background-image: url('http://u.lillefar.dk/yPlg70+') !important;
+} */
