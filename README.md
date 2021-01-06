@@ -1,7 +1,5 @@
 # A simple chrome extension to deliver Happiness for Selfhosted jira users  🎊
 
-![Screenshot of christmas mode](http://u.lillefar.dk/Al9vRr+)
-
 ## How to install
 -  Download zip and upzip it
 -  ![Screenshot](http://u.lillefar.dk/4ydPhE+)
@@ -11,7 +9,9 @@
 
 
 ## Log
--  Christmas mode added
+-  Test rails removed
+-  All links are blue
+-  ~~Christmas mode added~~
 
 
 ## Ideas
