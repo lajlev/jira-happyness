@@ -12,7 +12,7 @@
 #tempo-issue-view-panel,
 #logo,
 .ghx-priority[title~="Empty"],
-.ghx-statistic-badge,
+.ghx-statistic-badge
 {
   display: none;
 }
