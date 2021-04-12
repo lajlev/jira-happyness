@@ -10,7 +10,10 @@
 #panel-runsreferences,
 #panel-references,
 #tempo-issue-view-panel,
-#logo {
+#logo,
+.ghx-priority[title~="Empty"],
+.ghx-statistic-badge,
+{
   display: none;
 }
 
