@@ -13,8 +13,13 @@
 #logo,
 .ghx-priority[title~="Empty"],
 .ghx-statistic-badge
+#viewissuesidebar #panel-runsreferences
 {
   display: none;
+}
+
+#viewissuesidebar #panel-runsreferences {
+  display: none !important;
 }
 
 
