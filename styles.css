@@ -2,6 +2,9 @@
 .ghx-type,
 .ghx-heading-expander,
 .ghx-swimlane-avatar,
+.ghx-issue .ghx-card-footer .ghx-type,
+.ghx-issue .ghx-card-footer .ghx-flags,
+.ghx-issue .ghx-card-footer .ghx-end,
 #js-quickfilters-label,
 #panel-results,
 #panel-runsreferences,
@@ -10,6 +13,7 @@
 #logo {
   display: none;
 }
+
 
 a.js-detailview {
   margin-right: 10px;
